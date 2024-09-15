@@ -4,7 +4,7 @@
       { "src": "registration.html", "use": "@vercel/static" }
     ],
     "routes": [
-      { "src": "/(.*)", "dest": "registration.html" }
+      { "src": "/(.*)", "dest": "/registration.html" }
     ]
   }
   
